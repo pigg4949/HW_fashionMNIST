@@ -1,4 +1,4 @@
-<img width="1919" height="813" alt="image" src="https://github.com/user-attachments/assets/98921ea8-5fd7-4164-925a-d20463cc1bb1" /># Fashion MNIST 의류 분류 프로젝트
+# Fashion MNIST 의류 분류 프로젝트
 
 Fashion MNIST 데이터셋을 사용한 의류 이미지 분류 시스템입니다. FastAPI 백엔드와 Gradio 프론트엔드로 구성되어 있습니다.
 
